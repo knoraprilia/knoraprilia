@@ -1,6 +1,6 @@
-- 👋 Hallo, Saya Karina Noraprilia (@knoraprilia) seorang sarjana dalam bidang Statistik yang tertarik pada Analisis Data. Saya juga memiliki minat dalam Visualisasi data.
-- 🌱 Saya sedang belajar menjadi Data Analyst dengan mencoba belajar menggunakan Python, SQL dan Visualisasi Data dengan Power BI dan Tableu.
-- 📫 email : knoraprilia@gmail.com , linkedin : www.linkedin.com/in/karina-noraprilia-85a530191
+- 👋 Hallo, Saya Karina Noraprilia (@knoraprilia) seorang sarjana dalam bidang Statistik, memiliki minat dalam Analisis Data. Saya juga memiliki minat dalam Visualisasi data.
+- 🌱 Saya sedang belajar menjadi Data Analyst dengan mencoba belajar menggunakan Python, SQL dan Visualisasi Data dengan Tableu.
+- 📫 Hubungi saya melalui --> email : knoraprilia@gmail.com , linkedin : www.linkedin.com/in/karina-noraprilia-85a530191
 
 
 <!---
